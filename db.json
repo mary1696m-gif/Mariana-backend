@@ -1,0 +1,46 @@
+{
+  "alunos": [
+    {
+      "id": 3,
+      "nome": "teste",
+      "email": "teste@hotmail.com",
+      "curso": "engenharia de Software"
+    },
+    {
+      "id": 5,
+      "nome": "TESTE",
+      "email": "teste@hotmail.com",
+      "curso": "engenharia de Software",
+      "endereço": "545454545",
+      "telefone": "638083-0r4656",
+      "idade": "46"
+    },
+    {
+      "id": 6,
+      "nome": "mariana.",
+      "email": "mariana@gmail.com",
+      "curso": "frontend",
+      "endereço": "llçlçlç",
+      "telefone": "kçjçkjç7898707",
+      "idade": "80780"
+    },
+    {
+      "id": 7,
+      "nome": "Mariana Marques",
+      "email": "mary1696m@gmail.com",
+      "curso": "TI",
+      "endereço": "Não informado",
+      "telefone": "65453568",
+      "idade": "45"
+    },
+    {
+      "id": 8,
+      "nome": "Mariana",
+      "email": "mary1696m@gmail.com",
+      "curso": "TI",
+      "endereço": "Não informado",
+      "telefone": "Não informado",
+      "idade": "Não informada"
+    }
+  ]
+}
